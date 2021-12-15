@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<h2> Hi, I'm Rolo Ozuna!</h2>
+<h2> Hi, I'm Rolo Ozuna! 👋</h2> 
 
  </br>Mobile Developer  at <a href="https://www.monchis.com.py/">Monchis</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
 </em></p>
