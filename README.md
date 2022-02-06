@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm Rolo Ozuna! 👋</h2> 
 
- </br>Mobile Developer  at <a href="https://www.monchis.com.py/">Monchis</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
+ </br>Mobile Developer  at <a href="https://www.monchis.com.py/">Monchis</a> 
 </em></p>
 
 [![Twitter: Roloarguello](https://img.shields.io/twitter/follow/Roloarguello?style=social)](https://twitter.com/Roloarguello)
@@ -9,7 +9,7 @@
 
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+###  A little more about me...  
 
 ```javascript
 const rolo = {
