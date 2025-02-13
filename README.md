@@ -15,7 +15,7 @@
 const rolo = {
   pronouns: "he" | "hin",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React,React Native, Redux, Node,Paython, Django, Storybook, Styled-Components, Jest],
+  tools: [React,React Native, Redux, Node,Python, Django, Storybook, Styled-Components, Jest],
 }
 ```
 ---
